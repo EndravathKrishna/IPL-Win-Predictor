@@ -1,7 +1,12 @@
 # 🏏 IPL Win Predictor
+This project is a machine learning-based web application built using Streamlit. It predicts the winning probability of an IPL (Indian Premier League) team during a live match based on key match parameters like target, score, overs completed, and more.
 
-A simple and interactive web app built using **Streamlit** that predicts the **winning probability of an IPL team** during a match using a trained machine learning model.
+---
 
+## 🎯 Live Demo
+
+1. Visit the [Live Site](https://ipl-win-predictorgit-hlahvvso8zydckesw2ttql.streamlit.app/)
+   
 ---
 
 ## ✅ Features
@@ -40,3 +45,4 @@ pip install -r requirements.txt
 
 # 4. Run the Streamlit app
 streamlit run app.py
+
